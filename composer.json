@@ -8,7 +8,7 @@
     },
     "license":  "GPL-3.0",
     "keywords": ["symfony", "doctrine", "outer extension"],
-    "homepage": "http://github.com//blast-project//Blast",
+    "homepage": "http://github.com/blast-project/Blast",
     "authors": [
         {
            "name": "Baptiste SIMON",
